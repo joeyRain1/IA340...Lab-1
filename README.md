@@ -12,3 +12,13 @@ This is my [IA340](https://catalog.jmu.edu/preview_course_nopop.php?catoid=50&co
 
 - mini project
 - final project
+
+### Where am I from, and what are my hobbies
+
+*LBI, New Jersey*
+1. basketball
+2. football
+3. [dirtbike racing](https://www.tapinto.net/towns/stafford-slash-lbi/sections/education/articles/joey-rainone-southern-regional-eighth-grader-to)
+
+   
+   
