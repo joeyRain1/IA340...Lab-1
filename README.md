@@ -6,7 +6,7 @@ This is my [IA340](https://catalog.jmu.edu/preview_course_nopop.php?catoid=50&co
 
 ## Content 
 
-1. lab1
+1. [lab1](https://github.com/joeyRain1/IA_340_GIT/blob/main/lab1.ipynb)
 2. lab2
 3. lab3
 
