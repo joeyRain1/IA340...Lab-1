@@ -1,0 +1,7 @@
+import warnings
+warnings.simplefilter('ignore')
+
+import pandas as pd
+
+df = pd.read_csv('s3://social-data-analytics-cloud-ai/data.csv') # load the data from s3
+df.head() #show the top 5 rows
